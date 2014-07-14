@@ -1,0 +1,14 @@
+1.- creamos una carpeta llamada bmon
+2.- bajamos el archivo fuente
+3.- entramos a bmon-2-01
+4.- entramos dentro de src
+5.- modificamos out_sources.c out_ascii.c
+6.- buscamos control+w  la palabra interface 
+7.- cambiamos los datos de la interface por la tarjeta de red sunombre y cambiamos rate por tasa
+8.- guardamos los archivos
+9.- cd ..
+0.- dpkg-buildpackage -us -uc
+11.- el nos creara un .deb
+12.- que instalamos dpkg -i paquete
+13.- luego probamos el programa
+14.- luego subimos a github
