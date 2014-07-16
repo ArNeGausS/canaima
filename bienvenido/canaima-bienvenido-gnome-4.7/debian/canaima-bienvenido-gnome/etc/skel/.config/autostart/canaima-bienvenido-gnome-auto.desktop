@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Bienvenido a Canaima Apure 
+Name[es_VE]=Bienvenido a Canaima Apure 
+GenericName=Bienvenido a Canaima Apure
+GenericName[es_VE]=Bienvenido a Canaima Apure
+Comment=Menu de Bienvenida de Canaima Apure
+Comment[es_VE]=Menu de Bienvenida de Apure
+Exec=/usr/bin/canaima-bienvenido-gnome auto
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/usr/share/icons/Gnamon/places/48/canaima-logo.png
+Categories=GNOME;GTK;Utility;
+X-GNOME-FullName=Menu de Bienvenida de Canaima Apure 
+X-GNOME-FullName[es]=Menu de Bienvenida de Canaima Apure
